@@ -1,7 +1,7 @@
 # hmm
 # Hidden Markov Model – Baum-Welch Visualizer
 NAME : FARHA T K
-REGISTER NUMBER : TCR24CS027
+  REGISTER NUMBER : TCR24CS027
 
 An interactive web-based visualization tool for understanding Hidden Markov Models (HMM) and the Baum-Welch training algorithm.
 
