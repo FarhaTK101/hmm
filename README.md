@@ -20,25 +20,25 @@ Built using HTML, CSS, JavaScript, and Plotly.js — all in a single file with n
 
 # Features
 
-🔢 Customizable number of states (N)
+* Customizable number of states (N)
 
-👁 Customizable number of observation symbols (M)
+* Customizable number of observation symbols (M)
 
-📏 Adjustable sequence length (T)
+* Adjustable sequence length (T)
 
-🔁 Configurable training iterations
+* Configurable training iterations
 
-📈 Log-likelihood convergence graph
+* Log-likelihood convergence graph
 
-🔥 Transition & emission heatmaps
+* Transition & emission heatmaps
 
-📉 State probability over time plot
+* State probability over time plot
 
-🎨 Clean modern UI with responsive layout
+* Clean modern UI with responsive layout
 
-🧠 Concepts Used
+# Concepts Used
 
-# Hidden Markov Model (HMM)
+Hidden Markov Model (HMM)
 
 Forward Algorithm
 
