@@ -1,5 +1,7 @@
 # hmm
-Hidden Markov Model – Baum-Welch Visualizer
+# Hidden Markov Model – Baum-Welch Visualizer
+NAME : FARHA T K
+REGISTER NUMBER : TCR24CS027
 
 An interactive web-based visualization tool for understanding Hidden Markov Models (HMM) and the Baum-Welch training algorithm.
 
@@ -15,7 +17,8 @@ State posterior probabilities over time
 
 Built using HTML, CSS, JavaScript, and Plotly.js — all in a single file with no backend required.
 
-🚀 Features
+
+# Features
 
 🔢 Customizable number of states (N)
 
@@ -35,7 +38,7 @@ Built using HTML, CSS, JavaScript, and Plotly.js — all in a single file with n
 
 🧠 Concepts Used
 
-Hidden Markov Model (HMM)
+# Hidden Markov Model (HMM)
 
 Forward Algorithm
 
@@ -47,7 +50,8 @@ Matrix operations
 
 Data visualization using Plotly.js
 
-🛠 Technologies Used
+
+# Technologies Used
 
 HTML5
 
@@ -57,14 +61,14 @@ Vanilla JavaScript
 
 Plotly.js (CDN)
 
-📂 Project Structure
+# Project Structure
 HMM-BaumWelch-Visualizer/
 │
-└── index.html   (Contains HTML, CSS, and JS in one file)
+└── hmmmm.html   (Contains HTML, CSS, and JS in one file)
 
 No installation required.
 
-▶️ How to Run
+# How to Run
 
 Save the file as index.html
 
@@ -103,38 +107,3 @@ Heatmap showing probability of each observation given a state.
 
 Displays state-wise probabilities for each time step.
 
-⚠️ Important Note
-
-This implementation:
-
-Uses a simplified version of training
-
-Reinitializes matrices randomly during iterations
-
-Demonstrates visualization concepts rather than a mathematically complete Baum-Welch implementation
-
-For academic use and conceptual understanding only.
-
-🎯 Learning Outcome
-
-After using this tool, you will understand:
-
-How HMM parameters behave
-
-How likelihood changes during training
-
-How transition and emission probabilities are structured
-
-How state probabilities evolve over time
-
-📌 Future Improvements
-
-Implement full Baum-Welch re-estimation equations
-
-Add backward algorithm visualization
-
-Add scaling to prevent underflow
-
-Add downloadable trained model parameters
-
-Improve numerical stability
