@@ -74,7 +74,7 @@ Save the file as hmmmm.html
 
 Open it in any modern browser (Chrome, Edge, Firefox)
 
-Set:
+# Set:
 
 Number of States (N)
 
@@ -82,7 +82,7 @@ Number of Observations (M)
 
 Sequence Length (T)
 
-Iterations
+# Iterations
 
 Click Generate Sequence
 
@@ -90,7 +90,7 @@ Click Train Model
 
 All graphs will be generated dynamically.
 
-📊 Visualizations Explained
+# Visualizations Explained
 1️⃣ Log Likelihood Convergence
 
 Shows how the model likelihood changes across iterations.
