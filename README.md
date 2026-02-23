@@ -70,7 +70,7 @@ No installation required.
 
 # How to Run
 
-Save the file as index.html
+Save the file as hmmmm.html
 
 Open it in any modern browser (Chrome, Edge, Firefox)
 
